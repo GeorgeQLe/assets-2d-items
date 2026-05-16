@@ -1,0 +1,8 @@
+{
+  "name": "assets-2d-items",
+  "description": "2D generic game items (weapons, potions, loot, collectibles)",
+  "version": "0.1.0",
+  "category": "2d",
+  "theme": "items",
+  "assets": []
+}
